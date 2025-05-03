@@ -46,5 +46,3 @@ I’m also a big fan of Linux—you’ll usually find me in the terminal, custom
 ## 🐍 GitHub Contribution Snake:
 
 ![snake gif](https://hanihatim.github.io/HaniHatim-HaniHatim/github-snake-dark.svg)
-
----
