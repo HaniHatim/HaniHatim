@@ -12,9 +12,9 @@ I’m also a big fan of Linux—you’ll usually find me in the terminal, custom
 
 ## 🌐 Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hani-hatim-92273028b/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@hani_hatim?si=D9ZS5hhLKMpxRe-8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hani.electronics.engineering@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hani-hatim-92273028b/)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)
 
 
