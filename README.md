@@ -45,8 +45,6 @@ I’m also a big fan of Linux—you’ll usually find me in the terminal, custom
 
 ## 🐍 GitHub Contribution Snake:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HaniHatim/HaniHatim/output/snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://hanihatim.github.io/HaniHatim-HaniHatim/github-snake-dark.svg)
 
 ---
