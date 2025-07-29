@@ -24,6 +24,7 @@ I’m also a big fan of Linux—you’ll usually find me in the terminal, custom
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-%230082B6.svg?logo=stmicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
