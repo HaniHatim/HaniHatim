@@ -4,13 +4,16 @@
 
 ## 🧑‍💻 About Me:
 
+
 Hi, I'm Hani Hatim — an electronics engineer who loves diving deep into embedded systems and bringing hardware to life with code.
 I enjoy working close to the metal, whether it’s writing firmware for STM32 microcontrollers or building smart devices with Arduino.
 With a solid foundation in C, C++, and Python, I focus on creating reliable, efficient embedded solutions.
 I’m also a big fan of Linux—you’ll usually find me in the terminal, customizing and tinkering with Arch Linux to fit my workflow.
 
 
+
 ## 🌐 Socials:
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hani-hatim-92273028b/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@KeplerCoreOfficial)
@@ -20,6 +23,7 @@ I’m also a big fan of Linux—you’ll usually find me in the terminal, custom
 
 
 ## 🛠️ Tech Stack:
+
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
@@ -33,13 +37,12 @@ I’m also a big fan of Linux—you’ll usually find me in the terminal, custom
 
 
 
-
-
 ## 📈 GitHub Stats:
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaniHatim&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HaniHatim&layout=compact&theme=dracula&langs_count=6&hide_border=false" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=HaniHatim&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=HaniHatim&layout=compact&theme=dracula&langs_count=6" height="150" />
 </div>
 
 
